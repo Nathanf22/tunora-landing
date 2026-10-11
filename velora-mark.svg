@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="40" height="40">
+  <title>Velora</title>
+  <style>
+    .v { stroke: #0B0B0F; }
+    @media (prefers-color-scheme: dark) { .v { stroke: #F2F2F5; } }
+  </style>
+  <path class="v" d="M8 9 20 29 32 9" fill="none" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M20 23.6 26.4 30 20 36.4 13.6 30Z" fill="#FF5B2E" stroke="#FF5B2E" stroke-width="1.6" stroke-linejoin="round"/>
+</svg>
